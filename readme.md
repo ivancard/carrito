@@ -8,3 +8,4 @@
 - Agregar el curso al carrito al darle click a su respectivo botón.
 - Eliminar un curso ,añadido al carrito, dandole 'click' a un icono con una 'X' que se posiciona al lado de cada curso del carrito.
 - Vaciar el carrito al apretar un botón para vaciarlo.
+https://ivancard.github.io/carrito/
